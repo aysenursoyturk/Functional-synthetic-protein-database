@@ -54,7 +54,6 @@ A directory containing **per-protein coordinate files**.
 ---
 
 ### `chain_set_updated.fasta`
-FASTA-formatted file containing **only the optimized amino acid sequences**.
 
 This file is suitable for:
 - Sequence-level analyses
@@ -67,8 +66,6 @@ This file is suitable for:
 - **Number of proteins:** 21,668
 - **Source database:** CATH 4.3 (S40 non-redundant clusters)
 - **Sequence length range:** 40–800 amino acids
-- **Mean instability index:** reduced from ~35–40 to ~15–20
-- **Mean solubility score:** increased from ~0.6 to ~0.7
 - **Structural integrity:** fully preserved
 
 ---
