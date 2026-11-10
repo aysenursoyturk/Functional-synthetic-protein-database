@@ -84,7 +84,7 @@ The dataset can be directly integrated into existing inverse folding frameworks 
 ## Associated Publication
 If you use this dataset, please cite the following work:
 
-**Ayşenur Soytürk Patat, Özkan Ufuk Nalbantoğlu**  
+**Ayşenur Soytürk Patat, Özkan Ufuk Nalbantoğlu, Ali Tevfik Uncu**  
 *Augmenting the CATH Database: A Synthetic Protein Database for Training Biophysical-Aware Inverse Folding Models*  
 Computational Biology and Chemistry, 2026 (under review)
 
